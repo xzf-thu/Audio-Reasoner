@@ -8,8 +8,8 @@
 We implemented inference scaling on **Audio-Reasoner**, a large audio language model, enabling **deepthink** and **structured chain-of-thought (COT) reasoning** for multimodal understanding and reasoning. To achieve this, we constructed CoTA, a high-quality dataset with **1.2M reasoning-rich samples** using structured COT techniques. Audio-Reasoner achieves state-of-the-art results on **MMAU-mini(+25.42%)** and **AIR-Bench-Chat(+14.57%)** benchmarks.
 
 <p align="center">
-Audio-Reasoner-7B <a href="https://huggingface.co"></a>🤗 (coming soon)&nbsp|&nbsp  CoTA Dataset <ahref="https://huggingface.co"></a>🤗 (coming soon)<br>
-Paper <a href="https://arxiv.org/abs/2503.02318">📑</a> ｜ Wechat <a href="https://github.com/xzf-thu/Audio-Reasoner/blob/main/assets/wechat.jpg">💭</a> ｜ Code <a href="https://github.com/xzf-thu/Audio-Reasoner"> ⚙️ </a>
+Audio-Reasoner-7B <a href="https://huggingface.co"></a>🤗 (coming soon)&nbsp|&nbsp  CoTA Dataset <a href="https://huggingface.co"></a> 🤗 (coming soon)<br>
+Paper <a href="https://arxiv.org/abs/2503.02318"> 📑</a> ｜ Wechat <a href="https://github.com/xzf-thu/Audio-Reasoner/blob/main/assets/wechat.jpg">💭</a> ｜ Code <a href="https://github.com/xzf-thu/Audio-Reasoner"> ⚙️</a>
 <br>
   <a href="#demo"> Demo</a> &nbsp•&nbsp
   <a href="#install">Install</a> &nbsp•&nbsp
@@ -40,7 +40,7 @@ Paper <a href="https://arxiv.org/abs/2503.02318">📑</a> ｜ Wechat <a href="ht
 - **2025.04:** **🔜Open-source data systhesis pipeline and training code**.
 
 ## Demo
-<p align="center">
+<p align="center" width="80%">
 <video controls src="https://github.com/user-attachments/assets/d50f75e7-288b-454b-92a3-c6f058be231b" title="v"></video>
 ## Features
 </p>
