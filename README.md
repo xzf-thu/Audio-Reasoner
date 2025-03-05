@@ -40,10 +40,10 @@ If you like us, pls give us a star⭐ !
 
 ## Demo
 <p align="center" width="80%">
-<video controls src="https://github.com/user-attachments/assets/d50f75e7-288b-454b-92a3-c6f058be231b" title="v" width="100"></video>
-## Features
+<video controls src="https://github.com/user-attachments/assets/d50f75e7-288b-454b-92a3-c6f058be231b" title="v" width="100%"></video>
 </p>
 
+## Features
 ✅ Audio-Reasoner enables **deep reasoning and inference scaling** in audio-based tasks, built on Qwen2-Audio-Instruct with structured CoT training.
 
 ✅ CoTA offers **1.2M** high-quality captions and QA pairs across domains for structured reasoning and enhanced pretraining. 
