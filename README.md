@@ -27,13 +27,12 @@ If you like us, pls give us a star⭐ !
 
 
 ## News and Updates
+- **2025.03.05:** ✅**Audio-Reasoner-7B checkpoint is released on HuggingFace<a href="https://huggingface.co/zhifeixie/Audio-Reasoner/tree/main">🤗</a> !**
 - **2025.03.05:** ✅**Audio-Reasoner Paper is uploaded to arXiv.**
 - **2025.03.04:** ✅**Demos, inference code and evaluation results have been released.**
 - **2025.03.04:** ✅**Create this repo.**
 
 ## Roadmap
-- **2025.03:** **🔜Release Audio-Reasoner-7B checkpoint as well as the evaluation code.**
-
 - **2025.03:** **🔜Upload CoTA dataset to HuggingFace🤗.**
 
 - **2025.04:** **🔜Open-source data systhesis pipeline and training code**.
