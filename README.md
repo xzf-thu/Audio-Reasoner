@@ -15,7 +15,7 @@ Paper <a href="https://arxiv.org/abs/2503.02318">📑</a> ｜ Wechat <a href="ht
   <a href="#install">Install</a> &nbsp•&nbsp
   <a href="#quick-start">Quick Start</a> &nbsp•&nbsp
   <a href="#faq">FAQ</a> &nbsp•&nbsp
-  <a href="#contact">Contact us</a> &nbsp•&nbsp
+  <a href="#contact">Contact us</a> 
 </p>
 
 
