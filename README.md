@@ -40,9 +40,10 @@ Paper <a href="https://arxiv.org/abs/2503.02318">📑</a> ｜ Wechat <a href="ht
 - **2025.04:** **🔜Open-source data systhesis pipeline and training code**.
 
 ## Demo
-
+<p align="center">
 <video controls src="https://github.com/user-attachments/assets/d50f75e7-288b-454b-92a3-c6f058be231b" title="v"></video>
 ## Features
+</p>
 
 ✅  Audio-Reasoner enables **deep reasoning and inference scaling** in audio-based tasks, built on Qwen2-Audio-Instruct with structured CoT training.
 
@@ -141,7 +142,7 @@ if __name__ == '__main__':
 conda activate Audio-Reasoner
 cd Audio-Reasoner
 # test run the preset audio samples and questions
-python inference.py #p
+python inference.py 
 ```
 
 ## FAQ
