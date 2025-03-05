@@ -179,4 +179,4 @@ Please cite our paper if you find our model and detaset useful. Thanks!
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=xzf-thu/Audio-Reasoner&type=Date)]([https://star-history.com/#xzf-thu/Audio-Reasoner&Date](https://star-history.com/#xzf-thu/Audio-Reasoner&Timeline))
+[![Star History Chart](https://api.star-history.com/svg?repos=xzf-thu/Audio-Reasoner&type=Date)](https://star-history.com/#xzf-thu/Audio-Reasoner&Date)
