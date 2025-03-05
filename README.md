@@ -35,7 +35,7 @@ Paper <a href="https://arxiv.org/abs/2503.02318">📑</a> ｜ Wechat <a href="ht
 ## Roadmap
 - **2025.03:** **🔜Release Audio-Reasoner-7B checkpoint as well as the evaluation code.**
 
-- **2025.03:** **🔜UploadCoTA dataset to HuggingFace🤗.**
+- **2025.03:** **🔜Upload CoTA dataset to HuggingFace🤗.**
 
 - **2025.04:** **🔜Open-source data systhesis pipeline and training code**.
 
@@ -45,7 +45,7 @@ Paper <a href="https://arxiv.org/abs/2503.02318">📑</a> ｜ Wechat <a href="ht
 ## Features
 </p>
 
-✅  Audio-Reasoner enables **deep reasoning and inference scaling** in audio-based tasks, built on Qwen2-Audio-Instruct with structured CoT training.
+✅ Audio-Reasoner enables **deep reasoning and inference scaling** in audio-based tasks, built on Qwen2-Audio-Instruct with structured CoT training.
 
 ✅ CoTA offers **1.2M** high-quality captions and QA pairs across domains for structured reasoning and enhanced pretraining. 
 
