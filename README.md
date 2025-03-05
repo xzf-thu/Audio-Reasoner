@@ -11,7 +11,7 @@ We implemented inference scaling on **Audio-Reasoner**, a large audio language m
 Audio-Reasoner-7B <a href="https://huggingface.co"></a>🤗 (coming soon)&nbsp|&nbsp  CoTA Dataset <a href="https://huggingface.co"></a> 🤗 (coming soon)<br>
 Paper <a href="https://arxiv.org/abs/2503.02318"> 📑</a> ｜ Wechat <a href="https://github.com/xzf-thu/Audio-Reasoner/blob/main/assets/wechat.jpg">💭</a> ｜ Code <a href="https://github.com/xzf-thu/Audio-Reasoner"> ⚙️</a>
 <br>
-<a href="#demo"> Demo</a> • <a href="#install">Install</a> • <a href="#quick start">Quick Start</a> • <a href="#faq">FAQ</a> • <a href="#contact">Contact us</a><br>
+<a href="#demo"> Demo</a> • <a href="#install">Install</a> • <a href="#quick-start">Quick Start</a> • <a href="#faq">FAQ</a> • <a href="#contact">Contact us</a><br>
 <br>
 If you like us, pls give us a star⭐ !
 </p>
