@@ -16,9 +16,11 @@ Paper <a href="https://arxiv.org/abs/2503.02318"> 📑</a> ｜ Wechat <a href="h
   <a href="#quick-start">Quick Start</a> &nbsp•&nbsp
   <a href="#faq">FAQ</a> &nbsp•&nbsp
   <a href="#contact">Contact us</a> 
+<br>
+If you like us, pls give us a star⭐ !
 </p>
 
-If you like us, pls give us a star⭐ !
+
 
 ## Main Results
 <p align="center">
