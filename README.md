@@ -149,7 +149,7 @@ python inference.py
 Audio - Reasoner can understand various types of audio, including sound, music, and speech. It conducts in - depth thinking in four parts: **planning, caption, reasoning, and summary**.
 
 **2. Why is transformers installed after 'ms-swift' in the environment configuration?**
-The version of transformers has a significant impact on the performance of the model. We have tested that version `transformers==4.49.1` is one of the suitable versions. Installing ms-swift first may ensure a more stable environment for the subsequent installation of transformers to avoid potential version conflicts that could affect the model's performance.
+The version of transformers has a significant impact on the performance of the model. We have tested that version `transformers==4.48.0` is one of the suitable versions. Installing ms-swift first may ensure a more stable environment for the subsequent installation of transformers to avoid potential version conflicts that could affect the model's performance.
 
 ## More Cases
 <p align="center">
