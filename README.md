@@ -67,7 +67,7 @@ conda create -n Audio-Reasoner python=3.10
 conda activate Audio-Reasoner
 
 pip install -r requirements.txt
-pip install transformers==4.49.1
+pip install transformers==4.49.0
 ```
 
 ## Quick Start
