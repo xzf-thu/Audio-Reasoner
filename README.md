@@ -8,7 +8,7 @@
 We implemented inference scaling on **Audio-Reasoner**, a large audio language model, enabling **deepthink** and **structured chain-of-thought (COT) reasoning** for multimodal understanding and reasoning. To achieve this, we constructed CoTA, a high-quality dataset with **1.2M reasoning-rich samples** using structured COT techniques. Audio-Reasoner achieves state-of-the-art results on **MMAU-mini(+25.42%)** and **AIR-Bench-Chat(+14.57%)** benchmarks.
 
 <p align="center">
-Audio-Reasoner-7B <a href="https://huggingface.co/zhifeixie/Audio-Reasoner/tree/main">🤗</a> |  CoTA Dataset <a href="https://huggingface.co"></a> 🤗 (coming soon)<br>
+Audio-Reasoner-7B <a href="https://huggingface.co/zhifeixie/Audio-Reasoner/tree/main">🤗</a> |  CoTA Dataset <a href="[https://huggingface.co](https://huggingface.co/datasets/zhifeixie/Audio-Reasoner-CoTA)">🤗</a> <br>
 Paper <a href="https://arxiv.org/abs/2503.02318"> 📑</a> ｜ Wechat <a href="https://github.com/xzf-thu/Audio-Reasoner/blob/main/assets/wechat.jpg">💭</a> ｜ Code <a href="https://github.com/xzf-thu/Audio-Reasoner"> ⚙️</a>
 <br>
 <a href="#demo"> Demo</a> • <a href="#install">Install</a> • <a href="#quick-start">Quick Start</a> • <a href="#faq">FAQ</a> • <a href="#contact">Contact us</a><br>
